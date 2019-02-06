@@ -29,6 +29,7 @@ namespace ConsoleApp1
         {
             i++;
             return true;
+            Console.ReadLine();
         }
     }
 }
